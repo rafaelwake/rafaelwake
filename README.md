@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @rafaelwake and I'm Electronic Technician with extensive experience in the development of tests and alpha validation of hardware and software for new products, 
-besides I have experience in failure analysis and presentation of improvements, interface and relationship with suppliers to development in 
-accordance with customer and production needs. 
+- 👋 Hi, I’m @rafaelwake and I'm Electronic Technician with extensive experience in the development products OEM from China. 
 In my carrier, I participate actively in continuous improvement processes, focusing on the delivery of quality products and services.
-- 👀 I’m interested in learn software developement and test QA.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on Java and Test QA.
+
+- 👀 I’m interested in learn software developemen, test QA, System Embeded
+- 🌱 I’m currently learning Java, C, C++ and Swift.
+- 💞️ I’m looking to collaborate on products OEM, System Embeded and Test QA.
 - 📫 How to reach me Software teste QA.
 
 
