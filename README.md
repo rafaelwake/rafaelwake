@@ -1,5 +1,5 @@
-# About myself
+## About myself
 
-### I’m Project Engineering Technician with extensive experience in the development of products and services. Focusing on the development stages through agile methodologies, testing and alpha validation of hardware and software for electronic products, failure analysis and presentation of improvements, interface and relationship with suppliers to align demands in accordance with customer and production needs, active participation in continuous improvement processes, focusing on the delivery of quality products and services.
+### Project Engineering Technician, with extensive experience in the development of OEM products, validation testing, and NPI (New Product Introduction). In 2022, I made a career transition to the field of software development, where I work with front-end and back-end in applications for home automation, IoT, and financial payment solutions. I use technologies such as JavaScript (Angular, React.js), Node.js, and Ionic, and apply agile methodologies like Scrum and Kanban. Additionally, I have other skills in the product area, application of good information security practices, maintenance of mobile apps, and deployment of applications on AWS.
 
-### At the moment, I’m working with Development solutions in home automation and IoT, focusing on the software web and mobile, at Pixel Ti Industry.
+### This combination of experiences in engineering and software development allows me to see the product life cycle in a comprehensive way, which enhances the delivery of high-quality solutions.
